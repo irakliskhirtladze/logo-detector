@@ -16,7 +16,7 @@ wheels/
 .vscode/
 
 .env
-logo_detector_spec.md
+spec.md
 
 # Test data
 data/
